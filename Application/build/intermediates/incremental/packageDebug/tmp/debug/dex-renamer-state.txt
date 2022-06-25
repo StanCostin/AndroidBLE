@@ -1,0 +1,4 @@
+#Mon Apr 25 02:16:10 EEST 2022
+base.0=C\:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

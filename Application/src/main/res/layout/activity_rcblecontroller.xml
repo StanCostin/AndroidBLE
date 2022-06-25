@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RCBLEController">
+
+    <ImageButton
+        android:id="@+id/upArrowId"
+        android:layout_width="89dp"
+        android:layout_height="80dp"
+        android:contentDescription="@string/uparrow"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.146"
+        app:srcCompat="@drawable/uparrow" />
+
+    <ImageButton
+        android:id="@+id/leftArrowId"
+        android:layout_width="89dp"
+        android:layout_height="80dp"
+        android:contentDescription="@string/leftarrow"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.22"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.283"
+        app:srcCompat="@drawable/previous" />
+
+    <ImageButton
+        android:id="@+id/rightArrowId"
+        android:layout_width="89dp"
+        android:layout_height="80dp"
+        android:contentDescription="@string/rightarrow"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.776"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.283"
+        app:srcCompat="@drawable/right" />
+
+    <ImageButton
+        android:id="@+id/downArrowId"
+        android:layout_width="89dp"
+        android:layout_height="80dp"
+        android:contentDescription="@string/downarrow"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.435"
+        app:srcCompat="@drawable/downarrow" />
+
+    <ImageButton
+        android:id="@+id/frontLightsId"
+        android:layout_width="89dp"
+        android:layout_height="80dp"
+        android:contentDescription="@string/frontlights"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.27"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.738"
+        app:srcCompat="@drawable/frontlights" />
+
+    <ImageButton
+        android:id="@+id/backLightsId"
+        android:layout_width="89dp"
+        android:layout_height="80dp"
+        android:contentDescription="@string/backlights"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.677"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.739"
+        app:srcCompat="@drawable/backlights" />
+
+    <ImageButton
+        android:id="@+id/hornId"
+        android:layout_width="89dp"
+        android:layout_height="80dp"
+        android:contentDescription="@string/hornbutton"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.27"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.881"
+        app:srcCompat="@drawable/horn" />
+
+    <ImageButton
+        android:id="@+id/emergencyId"
+        android:layout_width="89dp"
+        android:layout_height="80dp"
+        android:contentDescription="@string/emergencybutton"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.677"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.881"
+        app:srcCompat="@drawable/emergencysign" />
+
+    <ImageButton
+        android:id="@+id/disconnectId"
+        android:layout_width="89dp"
+        android:layout_height="80dp"
+        android:contentDescription="@string/disconnectbutton"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.891"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.038"
+        app:srcCompat="@drawable/disconnect" />
+
+    <ImageButton
+        android:id="@+id/backButtonId"
+        android:layout_width="89dp"
+        android:layout_height="80dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.118"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.038"
+        android:contentDescription="@string/backbutton"
+        app:srcCompat="@drawable/backbutton" />
+
+
+
+</android.support.constraint.ConstraintLayout>

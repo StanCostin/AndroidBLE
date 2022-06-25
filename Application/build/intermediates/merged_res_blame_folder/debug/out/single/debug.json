@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_backbutton.png.flat",
+        "source": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\src\\main\\res\\drawable-hdpi\\backbutton.png"
+    },
+    {
+        "merged": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_backlights.png.flat",
+        "source": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\src\\main\\res\\drawable-hdpi\\backlights.png"
+    },
+    {
+        "merged": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\build\\intermediates\\merged_res\\debug\\layout_activity_rcblecontroller.xml.flat",
+        "source": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\src\\main\\res\\layout\\activity_rcblecontroller.xml"
+    },
+    {
+        "merged": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_microphone.png.flat",
+        "source": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\src\\main\\res\\drawable-hdpi\\microphone.png"
+    },
+    {
+        "merged": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\build\\intermediates\\merged_res\\debug\\layout_activity_ovblecontroller.xml.flat",
+        "source": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\src\\main\\res\\layout\\activity_ovblecontroller.xml"
+    },
+    {
+        "merged": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_power.png.flat",
+        "source": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\src\\main\\res\\drawable-hdpi\\power.png"
+    },
+    {
+        "merged": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\build\\intermediates\\merged_res\\debug\\layout_activity_menu_controller.xml.flat",
+        "source": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\src\\main\\res\\layout\\activity_menu_controller.xml"
+    },
+    {
+        "merged": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_left.png.flat",
+        "source": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\src\\main\\res\\drawable-hdpi\\left.png"
+    },
+    {
+        "merged": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\build\\intermediates\\merged_res\\debug\\layout_listitem_device.xml.flat",
+        "source": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\src\\main\\res\\layout\\listitem_device.xml"
+    },
+    {
+        "merged": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\build\\intermediates\\merged_res\\debug\\menu_main.xml.flat",
+        "source": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_emergencysign.png.flat",
+        "source": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\src\\main\\res\\drawable-hdpi\\emergencysign.png"
+    },
+    {
+        "merged": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_on.png.flat",
+        "source": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\src\\main\\res\\drawable-hdpi\\on.png"
+    },
+    {
+        "merged": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_right.png.flat",
+        "source": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\src\\main\\res\\drawable-hdpi\\right.png"
+    },
+    {
+        "merged": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_frontcar128.png.flat",
+        "source": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\src\\main\\res\\drawable-hdpi\\frontcar128.png"
+    },
+    {
+        "merged": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_downarrow.png.flat",
+        "source": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\src\\main\\res\\drawable-hdpi\\downarrow.png"
+    },
+    {
+        "merged": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_backcar128.png.flat",
+        "source": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\src\\main\\res\\drawable-hdpi\\backcar128.png"
+    },
+    {
+        "merged": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\build\\intermediates\\merged_res\\debug\\menu_gatt_services.xml.flat",
+        "source": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\src\\main\\res\\menu\\gatt_services.xml"
+    },
+    {
+        "merged": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_off.png.flat",
+        "source": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\src\\main\\res\\drawable-hdpi\\off.png"
+    },
+    {
+        "merged": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_previous.png.flat",
+        "source": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\src\\main\\res\\drawable-hdpi\\previous.png"
+    },
+    {
+        "merged": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_frontlights.png.flat",
+        "source": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\src\\main\\res\\drawable-hdpi\\frontlights.png"
+    },
+    {
+        "merged": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\build\\intermediates\\merged_res\\debug\\layout_gatt_services_characteristics.xml.flat",
+        "source": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\src\\main\\res\\layout\\gatt_services_characteristics.xml"
+    },
+    {
+        "merged": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\build\\intermediates\\merged_res\\debug\\layout_activity_dcblecontroller.xml.flat",
+        "source": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\src\\main\\res\\layout\\activity_dcblecontroller.xml"
+    },
+    {
+        "merged": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\build\\intermediates\\merged_res\\debug\\layout_actionbar_indeterminate_progress.xml.flat",
+        "source": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\src\\main\\res\\layout\\actionbar_indeterminate_progress.xml"
+    },
+    {
+        "merged": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_horn.png.flat",
+        "source": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\src\\main\\res\\drawable-hdpi\\horn.png"
+    },
+    {
+        "merged": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_disconnect.png.flat",
+        "source": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\src\\main\\res\\drawable-hdpi\\disconnect.png"
+    },
+    {
+        "merged": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\build\\intermediates\\merged_res\\debug\\layout_activity_vcblecontroller.xml.flat",
+        "source": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\src\\main\\res\\layout\\activity_vcblecontroller.xml"
+    },
+    {
+        "merged": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_uparrow.png.flat",
+        "source": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\src\\main\\res\\drawable-hdpi\\uparrow.png"
+    }
+]

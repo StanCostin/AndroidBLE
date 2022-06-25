@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "C:\\Poli\\Anul4\\BluetoothLeGattTerminal\\Application\\src\\main\\res\\values-v11\\template-styles.xml",
+                    "from": {
+                        "startLines": "20,-1",
+                        "startColumns": "4,-1",
+                        "startOffsets": "736,-1",
+                        "endLines": "25,-1",
+                        "endColumns": "12,-1",
+                        "endOffsets": "1044,-1"
+                    },
+                    "to": {
+                        "startLines": "2,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,363",
+                        "endLines": "7,8",
+                        "endColumns": "12,64",
+                        "endOffsets": "358,423"
+                    }
+                }
+            ]
+        }
+    ]
+}

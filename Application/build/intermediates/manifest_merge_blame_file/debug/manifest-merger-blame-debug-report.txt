@@ -1,0 +1,120 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.android.bluetoothlegatt"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="18"
+8-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml
+10    <!-- Min/target SDK versions (<uses-sdk>) managed by build.gradle -->
+11    <!--
+12 Declare this required feature if you want to make the app available to BLE-capable
+13    devices only.  If you want to make your app available to devices that don't support BLE,
+14    you should omit this in the manifest.  Instead, determine BLE capability by using
+15    PackageManager.hasSystemFeature(FEATURE_BLUETOOTH_LE)
+16    -->
+17    <uses-feature
+17-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:13:5-15:35
+18        android:name="android.hardware.bluetooth_le"
+18-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:14:9-53
+19        android:required="true" />
+19-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:15:9-32
+20
+21    <uses-permission android:name="android.permission.BLUETOOTH" />
+21-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:17:5-68
+21-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:17:22-65
+22    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+22-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:18:5-74
+22-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:18:22-71
+23    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+23-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:19:5-81
+23-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:19:22-78
+24    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+24-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:20:5-79
+24-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:20:22-76
+25
+26    <application
+26-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:22:5-60:19
+27        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+27-->[com.android.support:support-compat:28.0.0] C:\Users\Adrian\.gradle\caches\transforms-3\74c688e3955d6c97219a94eb3b390b70\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+28        android:debuggable="true"
+29        android:icon="@drawable/ic_launcher"
+29-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:23:9-45
+30        android:label="@string/app_name"
+30-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:24:9-41
+31        android:testOnly="true"
+32        android:theme="@android:style/Theme.Holo.Light" >
+32-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:25:9-56
+33        <activity
+33-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:26:9-29:62
+34            android:name="com.example.android.bluetoothlegatt.DCBLEController"
+34-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:27:13-44
+35            android:exported="false"
+35-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:28:13-37
+36            android:theme="@style/Theme.AppCompat.DayNight" />
+36-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:29:13-60
+37        <activity
+37-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:30:9-33:62
+38            android:name="com.example.android.bluetoothlegatt.VCBLEController"
+38-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:31:13-44
+39            android:exported="false"
+39-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:32:13-37
+40            android:theme="@style/Theme.AppCompat.DayNight" />
+40-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:33:13-60
+41        <activity
+41-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:34:9-37:62
+42            android:name="com.example.android.bluetoothlegatt.OVBLEController"
+42-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:35:13-44
+43            android:exported="false"
+43-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:36:13-37
+44            android:theme="@style/Theme.AppCompat.DayNight" />
+44-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:37:13-60
+45        <activity
+45-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:38:9-41:62
+46            android:name="com.example.android.bluetoothlegatt.RCBLEController"
+46-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:39:13-44
+47            android:exported="false"
+47-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:40:13-37
+48            android:theme="@style/Theme.AppCompat.DayNight" />
+48-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:41:13-60
+49        <activity
+49-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:42:9-45:62
+50            android:name="com.example.android.bluetoothlegatt.MenuController"
+50-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:43:13-43
+51            android:exported="false"
+51-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:44:13-37
+52            android:theme="@style/Theme.AppCompat.DayNight" />
+52-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:45:13-60
+53        <activity
+53-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:46:9-54:20
+54            android:name="com.example.android.bluetoothlegatt.DeviceScanActivity"
+54-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:47:13-47
+55            android:label="@string/app_name" >
+55-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:48:13-45
+56            <intent-filter>
+56-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:49:13-53:29
+57                <action android:name="android.intent.action.MAIN" />
+57-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:50:17-69
+57-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:50:25-66
+58
+59                <category android:name="android.intent.category.LAUNCHER" />
+59-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:52:17-77
+59-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:52:27-74
+60            </intent-filter>
+61        </activity>
+62        <activity android:name="com.example.android.bluetoothlegatt.DeviceControlActivity" />
+62-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:55:9-59
+62-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:55:19-56
+63
+64        <service
+64-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:57:9-59:38
+65            android:name="com.example.android.bluetoothlegatt.BluetoothLeService"
+65-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:58:13-47
+66            android:enabled="true" />
+66-->C:\Poli\Anul4\BluetoothLeGattTerminal\Application\src\main\AndroidManifest.xml:59:13-35
+67    </application>
+68
+69</manifest>
